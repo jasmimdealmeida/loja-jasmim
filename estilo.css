@@ -65,4 +65,5 @@ footer {
     background-color: rgb(126, 3, 3);
     color: white;
     margin: 0 5px 5px 5px;
+    justify-content: right;
 }
