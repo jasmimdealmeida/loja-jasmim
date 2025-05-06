@@ -42,11 +42,6 @@ main {
     flex: 1;
     margin-top: 5px;
 }
-.items{
-    display: flex;
-    flex-direction: column;
-}
-
 aside {
     border: 1px solid;
     flex: 0.2;
